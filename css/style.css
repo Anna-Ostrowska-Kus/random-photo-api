@@ -31,7 +31,8 @@ body {
 
 button{
 	margin:20px 20px;
-	font-size: 20px;
+	font-size: 25px;
+	background: rgb(217, 217, 223);
 	color: rgb(25, 16, 51);
 }
 
