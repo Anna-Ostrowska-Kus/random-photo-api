@@ -36,4 +36,10 @@ button{
 	color: rgb(25, 16, 51);
 }
 
+img {
+	max-width: 500px;
+	max-height: 300px;
+	object-fit: cover;
+  }
+
 
